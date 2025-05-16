@@ -34,13 +34,9 @@ const HeroSection = () => {
           </h1>
 
           <p className="text-white text-base sm:text-lg mb-6 lg:text-xl max-w-2xl animate__animated animate__fadeInUp animate__delay-2s">
-            
-          Welcome to my portfolio! I am a Computer Science professional specializing in software development, cybersecurity, and data analysis. With hands-on experience in technologies like Python, Java, C++, HTML/CSS, and cloud technologies, I am passionate about ethical hacking and network security.
-
-I focus on solving complex problems and continually expanding my expertise, from IoT security to full-stack development.
-
-Explore my projects, certifications, and journey in tech. Feel free to connect with me to discuss how I can contribute to your next project.
-
+         Welcome to my portfolio!
+I'm a Computer Science professional with expertise in software development, cybersecurity, and data analysis. Skilled in Python, Java, C++, HTML/CSS, and cloud technologies, I'm passionate about ethical hacking and network security.
+Explore my projects and certifications, and feel free to connect with me!
           </p>
 
           <div>
